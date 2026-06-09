@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Monitor AOC 27 OLED 2K",
+    "description": "Monitor 240hz panel OLED",
+    "code": "AOC-OLED-27",
+    "price": 850000,
+    "status": true,
+    "stock": 3,
+    "category": "Monitores",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Teclado Redragon Kumara",
+    "description": "Teclado mecánico TKL ideal para gaming",
+    "code": "RDRG-KUM-01",
+    "price": 45000,
+    "status": true,
+    "stock": 15,
+    "category": "Periféricos",
+    "thumbnails": [
+      "ruta/imagen1.jpg"
+    ]
+  }
+]
